@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "967BA820-E946-4C56-B28A-BBD63F2BCAF0",
+    "link_author" : "https:\/\/youtube.com\/StewartLynch",
+    "resource" : "YouTube Channel",
+    "type" : "youTube"
+  },
+  {
+    "id" : "F58A1E0D-5780-4AE1-949E-FCE25D1505F8",
+    "link_author" : "https:\/\/www.createchsol.com",
+    "resource" : "CreaTECH Website",
+    "type" : "webSite"
+  },
+  {
+    "id" : "8B249390-EF8F-4397-8D51-31E63011FB7D",
+    "link_author" : "https:\/\/www.avanderlee.com",
+    "resource" : "SwiftLee Weekly",
+    "type" : "blog"
+  },
+  {
+    "id" : "E5BA3144-4E3A-4678-86C2-4877A66E9531",
+    "link_author" : "John Sundell",
+    "resource" : "Swift By Sundell",
+    "type" : "podcast"
+  },
+  {
+    "id" : "60478E40-B4A2-4444-9462-7E6D2BED6189",
+    "link_author" : "Craig Clayton",
+    "resource" : "SwiftUI Projects",
+    "type" : "print"
+  }
+]
